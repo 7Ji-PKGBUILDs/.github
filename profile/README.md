@@ -1,6 +1,6 @@
 PKGBUILDs maintained / co-maintained by [7Ji](https://github.com/7Ji) and friends 
 
-This is also where [7Ji's arch repo](https://github.com/7Ji/archrepo) updates the PKGBUILDs from. However, issues related to the packages downloaded from there should not be opened here.
+This is also where [7Ji's arch repo](https://github.com/7Ji/archrepo) updates some of the PKGBUILDs from, alongside AUR. However, issues related to the packages downloaded from there should not be opened here.
 
 Some of the Arch-independent packages are also available on AUR.
 
