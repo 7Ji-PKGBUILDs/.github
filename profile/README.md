@@ -5,3 +5,5 @@ This is also where [7Ji's arch repo](https://github.com/7Ji/archrepo) updates so
 Some of the Arch-independent packages are also available on AUR.
 
 Others, mostly aarch64-specific ones, were previously or currently available on AUR, but will be purged soon and this will be the canon and only place to host them.
+
+For the ease of navigation, issues section of seperate package repos are closed, please report them on the [dedicated repo](https://github.com/7Ji-PKGBUILDs/.report/issues)
